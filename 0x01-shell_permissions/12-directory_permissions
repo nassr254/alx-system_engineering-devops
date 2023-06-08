@@ -1,0 +1,3 @@
+#!/bin/bash
+mkdidr -m 751 my_dr
+
