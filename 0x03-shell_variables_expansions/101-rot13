@@ -1,0 +1,2 @@
+#!/bin/bash
+tr 'echo (a..2) | tr -d " ** " echo (a..2) $(echo (a..2) $(
